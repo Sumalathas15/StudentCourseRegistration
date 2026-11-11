@@ -1,0 +1,1 @@
+package com.example.studentcourseregistration.exception;
